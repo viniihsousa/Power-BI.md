@@ -1,2 +1,1 @@
-# README.md
-DS_Business_Intelligence
+# DS_Business_Intelligence
